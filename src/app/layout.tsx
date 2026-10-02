@@ -12,6 +12,8 @@ import { ThemeProvider } from "~/components/theme/theme-provider";
 
 export const metadata: Metadata = {
   title: "Zedu",
+  description:
+    "Zedu - Seamless Video Meetings & Learning Communities platform for teams, classrooms, and cohorts.",
   icons: {
     icon: "/TelexIcon.svg",
   },
